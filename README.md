@@ -6,9 +6,12 @@ TailwindsCSS and Prettier included
 
 ## Getting Started
 
-1. `git clone ...`
-2. `npm install`
-3. `npm run dev`
+1. Click "Use this template"
+2. Create your repository
+3. `git clone <your-repo>`
+4. `cd vue-template`
+5. `npm install`
+6. `npm run dev`
 
 ## License
 
